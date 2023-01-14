@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.attribution{
+    display: flex;
+    justify-content: center;
+}
+/* #reForm{
+    box-shadow: 5px 5px pi;
+} */
